@@ -3,7 +3,10 @@
 ## Nice to meet you!
 
 - 👋 Hi, I’m @imleeou.
-- 👀 A front-end development engineer.
+- 👀 The avatar you see is me.
+- 👨‍💻 A front-end development engineer.
+- 🏠 Currently residing in Henan, China.
+
 
 ## Skills
 ![Static Badge](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
